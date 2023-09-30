@@ -1,4 +1,43 @@
-rtyhiikgg
-jfgjmirvm
-hfhl
-nnn
+Event is launching on Sept. 13. Users will be able to lock 
+their HT and TALK tokens in exchange for a chance to win part 
+of our 1.98 million STF token prize pool!
+
+Rules:
+
+A snapshot of each participant's locked HT and TALK 
+balances, as well as the total amount locked, will be
+ randomly taken during every 24 hour period for reward 
+ calculation purposes. Snapshots will be taken at any 
+ time between 8:00:00 on the current day and 07:59:59 on 
+ the next day); if the assets are unlocked before the 
+ random snapshot time of the day, they will not count 
+ towards calculations for rewards. The rewards will be sent
+  in STF tokens, and the number of daily rewards is calculated 
+  based on the locked HT and TALK tokens of that day; 
+  Individual Tiered Coefficient
+
+Reward Calculation:
+
+Individual Daily Reward = Snapshot amount of the user’s 
+locked HT or TALK Tiered coefficient) / (Snapshot amount of 
+locked HT or TALK Tiered coefficient) of all participants * 
+Daily rewards of all participants from locking HT or TALK.
+
+Reward Distribution:
+
+The rewards will be distributed by 13:00, Sept. 16 (UTC) for 
+users who lock assets in Round I. The rewards for Round II 
+will be distributed by 15:00, Sept. 27 (UTC) for users who 
+lock assets in Round II. After the event ends, locked HT or TALK tokens 
+will be returned to users’ exchange accounts automatically. 
+Before STF trading begins, the rate of return will show as 0 because 
+pricing will not be available yet. During the event, assets 
+locked as part of this event will not affect the snapshots taken
+ for rewards from other activities and campaigns.
+
+Terms & Conditions:
+
+Users are required to complete ID verification to start participating in 
+Primepool. This event is only open to parent accounts. Huobi reserves 
+the right to decide on the final outcome of the event as well as to 
+disqualify participants who display any fraudulent behavior.
