@@ -1,0 +1,14 @@
+ghjj.,mhggg
+hgggg
+nhggv
+gggg
+PS C:\Docker\MURZILKA> git commit -am "gggggbbbn"
+[feature 93ca349] gggggbbbn
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 second-subfolder/rtgjh.txt
+PS C:\Docker\MURZILKA> git st
+On branch feature
+nothing to commit, working tree clean
+PS C:\Docker\MURZILKA> git ch main
+Switched to branch 'main'
+PS C:\Docker\MURZILKA> 
